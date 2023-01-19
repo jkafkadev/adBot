@@ -1,4 +1,4 @@
-# adBot
+# Discord Advertisement Bot
 
 ## Background
 

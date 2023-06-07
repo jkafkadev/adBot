@@ -22,4 +22,4 @@ Typing ".help" into a main server channel will prompt the bot to show the first 
 
 ## Credits
 
-This project was started by Jarod Kafka and Schon Hale, resulting in the alpha version. Then, version 1.0 was developed by Jarod Kafka under the guidance of Corbin Fonville, and added file separation, best-practice styling and CI/CD
+This project was started by Jarod Kafka and Schon Hale, resulting in the alpha version. Then, version 1.0 was developed by Jarod Kafka under the guidance of Corbin Fonville, and added file separation, best-practice styling and CI/CD.
